@@ -1,4 +1,8 @@
 # Igor Pascal
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 Security researcher focused on Web Security, API Security and AI-powered security automation.
 
