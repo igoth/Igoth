@@ -34,3 +34,9 @@ Security researcher focused on Web Security, API Security and AI-powered securit
 - LLM Agents
 - MCP
 - Cloud Security
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igoth&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igoth&layout=compact&theme=github_dark)
