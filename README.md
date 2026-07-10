@@ -1,80 +1,108 @@
-# 👋 Hi, I'm Igor Pascal
+<div align="center">
 
-<h3 align="center">
-Security Researcher • Bug Bounty Hunter • AI Security Automation
-</h3>
+# Igor Pascal
 
-<p align="center">
-I build AI-powered tools for offensive security, bug bounty workflows and web application security research.
-</p>
+### 🛡️ Security Researcher • Bug Bounty Hunter • AI Security Automation
 
----
+Building AI-powered tools for offensive security, web application security and bug bounty workflows.
 
-## 🛡️ Focus Areas
+<img src="https://komarev.com/ghpvc/?username=igoth&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-- 🌐 Web Security
-- 🔌 API Security
-- 🐞 Bug Bounty
-- ⚔️ Offensive Security
-- 🤖 AI Agents
-- ⚡ Security Automation
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+- 🛡️ Bug Bounty Hunter
+- 🤖 Developing AI agents for Offensive Security
+- 🌐 Specialized in Web & API Security
+- 🐧 Linux Enthusiast
+- ⚡ Automation with Python
+- 📖 Constantly learning modern offensive security techniques
+
+---
+
+# 💻 Tech Stack
 
 <p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 Current Projects
+# 🛠 Current Projects
 
-### 🛡️ Hermes Security Suite
-AI-powered toolkit for bug bounty and offensive security automation.
+## 🛡️ Hermes Security Suite
 
-➡️ https://github.com/igoth/Hermes-Security-Suite
+AI-powered platform designed to automate bug bounty workflows and offensive security tasks.
 
-### 🤖 AI Bug Bounty Workflows
-
-Automation for reconnaissance, vulnerability validation and reporting.
-
-### ⚡ Security Automation
-
-Python tools for recon, reporting and workflow automation.
+🔗 https://github.com/igoth/Hermes-Security-Suite
 
 ---
 
-## 📚 Currently Learning
+## 🤖 AI Bug Bounty Workflows
+
+Automation for:
+
+- Reconnaissance
+- Vulnerability Validation
+- Reporting
+- AI-assisted Testing
+
+---
+
+## ⚡ Security Automation
+
+Collection of Python tools focused on:
+
+- Recon
+- Automation
+- Reporting
+- Productivity
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Web Exploitation
 - LLM Agents
 - Model Context Protocol (MCP)
 - Cloud Security
+- Browser Exploitation
+- AI-assisted Pentesting
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=igoth&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoth&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🧰 Tools
+# 🧰 Favorite Tools
 
-- Burp Suite
+- Burp Suite Professional
 - Python
 - Linux
 - Docker
@@ -85,30 +113,26 @@ Python tools for recon, reporting and workflow automation.
 
 ---
 
-## 🎯 Goals
+# 🎯 2026 Goals
 
-- Contribute to the security community
-- Build AI agents for offensive security
-- Improve bug bounty workflows
-- Publish open-source security tools
-
----
-
-## 🌐 Connect with me
-
-- GitHub: https://github.com/igoth
-
-<!-- Adicione quando criar -->
-
-<!--
-- HackerOne: https://hackerone.com/SEU_USUARIO
-- Bugcrowd: https://bugcrowd.com/SEU_USUARIO
-- LinkedIn: https://linkedin.com/in/SEU_USUARIO
-- X: https://x.com/SEU_USUARIO
--->
+- 🚀 Publish Hermes Security Suite
+- 🐞 Discover high-impact vulnerabilities
+- 🤖 Build advanced autonomous security agents
+- 🌎 Contribute more to open source
+- 📚 Deepen expertise in browser and cloud security
 
 ---
 
-<p align="center">
-<i>"Automating security research without replacing the researcher's judgment."</i>
-</p>
+# 📫 Contact
+
+GitHub
+
+https://github.com/igoth
+
+---
+
+<div align="center">
+
+### "Automating security research without replacing the researcher's judgment."
+
+</div>
