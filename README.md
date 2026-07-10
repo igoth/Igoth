@@ -1,4 +1,6 @@
-# Hi, I'm Igor 👋
+# Igor Pascal
+
+Security researcher focused on Web Security, API Security and AI-powered security automation.
 
 ## About me
 
