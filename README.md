@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igoth/Igoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🛡️ Bug Bounty Hunter
+- 🤖 Building AI agents for offensive security
+- 🐧 Linux enthusiast
+- 🔍 Focused on Web & API Security
+- ⚡ Automation with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Web Security
+- API Security
+- Burp Suite
+- Python
+- Linux
+- Git
+- Docker
+- AI Agents
+- Prompt Engineering
+
+## Current Projects
+
+- Hermes Security Suite
+- AI-powered Bug Bounty Workflows
+- Security Automation
+
+## Learning
+
+- Advanced Web Exploitation
+- LLM Agents
+- MCP
+- Cloud Security
