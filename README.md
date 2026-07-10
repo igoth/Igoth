@@ -45,9 +45,9 @@ Building AI-powered tools for offensive security, web application security and b
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/TypeScript-3961ef?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3961ef?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 </p>
 
