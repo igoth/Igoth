@@ -27,29 +27,19 @@ Building AI-powered tools for offensive security, web application security and b
 
 <p>
 
+<p>
 <img src="https://shields.io"/>
-
-<img src="https://shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=blue&yellow"/>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3961ef?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
 
 </p>
 
