@@ -27,7 +27,8 @@ Building AI-powered tools for offensive security, web application security and b
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=blue&yellow"/>
+<img src="https://icons8.com.br/icon/2MHtG1k2H9Pn/python"/>
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black"/>
 
