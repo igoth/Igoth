@@ -26,7 +26,6 @@ The core rule: **the system can observe, reason and plan on its own, but every a
 
 ## 🎯 Focus
 
-- Broken access control — IDOR/BOLA, RBAC, multi-account testing
 - Business logic flaws
 - REST & GraphQL API security
 - Safety design for AI agents in offensive security
