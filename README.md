@@ -1,146 +1,45 @@
-<div align="center">
-
 # Igor Pascal
 
-### 🛡️ Security Researcher • Bug Bounty Hunter • AI Security Automation
+Security researcher focused on **web & API access control** — IDOR/BOLA, RBAC, business logic.
+I build tooling that automates the tedious parts of bug bounty while keeping the researcher in charge of every action.
 
-Building AI-powered tools for offensive security, web application security and bug bounty workflows.
-
-<img src="https://komarev.com/ghpvc/?username=igoth&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+> *Automating security research without replacing the researcher's judgment.*
 
 ---
 
-# 🚀 About Me
+## 🛠 What I'm building
 
-- 🛡️ Bug Bounty Hunter
-- 🤖 Developing AI agents for Offensive Security
-- 🌐 Specialized in Web & API Security
-- 🐧 Linux Enthusiast
-- ⚡ Automation with Python
-- 📖 Constantly learning modern offensive security techniques
+### Hermes BugHunter Workspace (BHW)
+A Python CLI for running bug bounty investigations end to end, integrated with an LLM agent.
 
----
+The core rule: **the system can observe, reason and plan on its own, but every action boundary requires explicit human approval — enforced in code, not in the prompt.** Prompts are not a control surface; an unattended agent told "don't delete data" can still delete data to prove a bug.
 
-# 💻 Tech Stack
+- **Canonical investigation pipeline** — authorization → recon → surface → hypothesis → impact → mission → validation → evidence → finding → report, with lineage invariants across every stage
+- **Hard gates** — missions need `--confirm --actor`; validation requests are approved individually by SHA; network and auto-execution flags default to off
+- **Evaluation harness** — ground-truth fixtures, class-aware precision/recall and ranking regression, so prioritization changes are *measured* before they ship
+- **Engineering** — CI on Python 3.11–3.13, ruff + mypy, 1000+ tests, ADRs for every policy decision, reproducible certified releases
 
-<p>
-
-<img src="https://shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3961ef?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-</p>
+`Status: private — public release planned`
+<!-- When published: replace the line above with the repo link -->
 
 ---
 
-# 🛠 Current Projects
+## 🎯 Focus
 
-## 🛡️ Hermes Security Suite
+- Broken access control — IDOR/BOLA, RBAC, multi-account testing
+- Business logic flaws
+- REST & GraphQL API security
+- Safety design for AI agents in offensive security
 
-AI-powered platform designed to automate bug bounty workflows and offensive security tasks.
+## 🧰 Toolbox
 
-🔗 https://github.com/igoth/Hermes-Security-Suite
-
----
-
-## 🤖 AI Bug Bounty Workflows
-
-Automation for:
-
-- Reconnaissance
-- Vulnerability Validation
-- Reporting
-- AI-assisted Testing
+Burp Suite Pro · Python · ffuf · nuclei · httpx · katana · Docker · Linux
 
 ---
 
-## ⚡ Security Automation
+## 📫 Find me
 
-Collection of Python tools focused on:
+- HackerOne — [igothpascal](https://hackerone.com/igothpascal)
+<!-- Add: LinkedIn / email / blog -->
 
-- Recon
-- Automation
-- Reporting
-- Productivity
-
----
-
-# 📚 Currently Learning
-
-- Advanced Web Exploitation
-- LLM Agents
-- Model Context Protocol (MCP)
-- Cloud Security
-- Browser Exploitation
-- AI-assisted Pentesting
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=igoth&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoth&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🧰 Favorite Tools
-
-- Burp Suite Professional
-- Python
-- Linux
-- Docker
-- Git
-- VS Code
-- AI Agents
-- Prompt Engineering
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Publish Hermes Security Suite
-- 🐞 Discover high-impact vulnerabilities
-- 🤖 Build advanced autonomous security agents
-- 🌎 Contribute more to open source
-- 📚 Deepen expertise in browser and cloud security
-
----
-
-# 📫 Contact
-
-GitHub
-
-https://github.com/igoth
-
----
-
-<div align="center">
-
-### "Automating security research without replacing the researcher's judgment."
-
-</div>
+*All testing is performed within program scope and rules.*
