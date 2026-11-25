@@ -34,11 +34,10 @@ The core rule: **the system can observe, reason and plan on its own, but every a
 
 Burp Suite Pro · Python · ffuf · nuclei · httpx · katana · Docker · Linux
 
-<!--
-
-<!--## 📫 Find me 
+## 📫 Find me
 
 - HackerOne — [igothpascal](https://hackerone.com/igothpascal)
-<!-- Add: LinkedIn / email / blog -->
+- YesWeHack — [igothpascal](https://yeswehack.com/hunters/igothpascal)
+- X — [@igothpascal](https://x.com/igothpascal)
 
-<!--*All testing is performed within program scope and rules.* --> 
+*All testing is performed within program scope and rules.*
